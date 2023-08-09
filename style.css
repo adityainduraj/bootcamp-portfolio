@@ -1,0 +1,48 @@
+/* Add this code to your style.css file */
+body {
+    background-image: linear-gradient(white, blue);
+    transition: 0.25s;
+}
+
+.imageaboutpage {
+    display: block;
+    margin: 50px auto 50px auto;
+    height: 200px;
+    width: 200px;
+    border: transparent;
+    border-radius: 100px;
+}
+
+.profilepic {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    padding: 25px;
+    margin: 50px auto 50px auto;
+}
+
+.basic-info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 25px auto 25px auto;
+}
+
+.hero_desc {
+    display: flex;
+    justify-content: center;
+}
+
+.github {
+    height: 40px;
+    width: 40px;
+    margin: 15px auto 15px auto;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+}
+
